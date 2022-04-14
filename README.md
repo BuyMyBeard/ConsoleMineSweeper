@@ -1,5 +1,5 @@
 # ConsoleMineSweeper
-C Sharp console minesweeper
+
 This program is something I wanted to do for a while. I quickly put it together in less than 24 hours, and spent some time here and there in the 
 following weeks implementing more stuff and fixing bugs. I decided to go with the standard CS library and limiting myself to the console instead
 of making something fancy with 3rd party libraries like SFML.
