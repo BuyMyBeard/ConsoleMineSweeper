@@ -2,7 +2,8 @@
 
 This program is something I wanted to do for a while. I quickly put it together in less than 24 hours, and spent some time here and there in the 
 following weeks implementing more stuff and fixing bugs. I decided to go with the standard CS library and limiting myself to the console instead
-of making something fancy with 3rd party libraries like SFML.
+of making something fancy with 3rd party libraries like SFML. Also, I decided to program the entire thing in a functionnal paradigm instead of using 
+object oriented programming, which I reconsidered multiple times during the project.
 
 The design is quite interesting. It uses a multidimensional 2D array of characters for the display, that keeps the information on what is going to 
 be displayed on the screen without recalculating it everytime. it has the dimensions of the game grid + 2 vertically and horizontally, allowing it
